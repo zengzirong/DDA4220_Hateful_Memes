@@ -1,2 +1,2 @@
-import hm_example_mmf.processors.processors
-import hm_example_mmf.models.concat_vl
+import DDA4220_Hateful_Memes.processors.processors
+import DDA4220_Hateful_Memes.models.concat_vl

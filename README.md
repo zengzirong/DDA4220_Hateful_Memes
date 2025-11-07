@@ -9,8 +9,8 @@ The example tries to replicate the model developed in DrivenData's [blog post](h
 Preferably, create your own conda environment before following the steps below:
 
 ```
-git clone https://github.com/apsdehal/hm_example_mmf
-cd hm_example_mmf
+git clone git@github.com:zengzirong/DDA4220_Hateful_Memes.git
+cd DDA4220_Hateful_Memes
 pip install -r requirements.txt
 ```
 

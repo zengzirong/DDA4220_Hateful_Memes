@@ -1,6 +1,6 @@
 dataset_config:
   hateful_memes:
-    data_dir: /Users/xys/Desktop/cs/hm_example_mmf/data
+    data_dir: /Users/xys/Desktop/cs/DDA4220_Hateful_Memes/data
     processors:
       text_processor:
         type: fasttext_sentence_vector

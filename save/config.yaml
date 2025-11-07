@@ -112,7 +112,7 @@ model_config:
     model: concat_vl
 dataset_config:
   hateful_memes:
-    data_dir: /Users/xys/Desktop/cs/hm_example_mmf/data
+    data_dir: /Users/xys/Desktop/cs/DDA4220_Hateful_Memes/data
     depth_first: false
     fast_read: false
     use_images: true
@@ -203,13 +203,13 @@ env:
   cache_dir: /Users/xys/.cache/torch/mmf
   dataset_zoo: configs/zoo/datasets.yaml
   model_zoo: configs/zoo/models.yaml
-  data_dir: /Users/xys/Desktop/cs/hm_example_mmf/data
+  data_dir: /Users/xys/Desktop/cs/DDA4220_Hateful_Memes/data
   save_dir: ./save
   log_dir: ''
   report_dir: ''
   tensorboard_logdir: ''
   wandb_logdir: ''
-  user_dir: /Users/xys/Desktop/cs/hm_example_mmf
+  user_dir: /Users/xys/Desktop/cs/DDA4220_Hateful_Memes
 distributed:
   init_method: null
   rank: 0
